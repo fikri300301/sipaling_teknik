@@ -1,0 +1,4 @@
+- pembuatan applikasi pemantau linkup teknik
+- diperuntukkan untuk organisasi maupun mahasiswa
+- pendataan anggota yang mengikuti organisasi di bawah naungan BEM fakultas
+- pendataan proker serta proposal dan lpj
